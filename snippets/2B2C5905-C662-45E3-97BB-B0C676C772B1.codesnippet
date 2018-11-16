@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>@table</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>UITableView *tableView = [[UITableView alloc] initWithFrame:CGRectZero style:UITableViewStylePlain];
+[tableView registerClass:[&lt;#classCell#&gt; class] forCellReuseIdentifier:&lt;#kReuseIdentifier#&gt;];
+tableView.separatorStyle = UITableViewCellSeparatorStyleNone;
+tableView.dataSource = self;
+tableView.delegate = self;
+tableView.backgroundColor=[UIColor &lt;#clearColor#&gt;];
+[&lt;#view#&gt; addSubview:tableView];</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>2B2C5905-C662-45E3-97BB-B0C676C772B1</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>快捷创建table</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Table创建</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
