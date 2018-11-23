@@ -3,24 +3,25 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>sss</string>
+	<string>@blockprop</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic, strong) &lt;#dataTpye#&gt; *&lt;#name#&gt;;</string>
+	<string>    @property(nonatomic, copy) &lt;#returnType#&gt; (^&lt;#blockName#&gt;)(&lt;#parameterTypes#&gt;);
+</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>81830A55-25E9-4868-874E-E5016D0A8444</string>
+	<string>9DE8A80B-8885-490A-BB04-EACCCD0E0E9B</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>sss</string>
+	<string>@blockprop</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Strong属性</string>
+	<string>声明block属性</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

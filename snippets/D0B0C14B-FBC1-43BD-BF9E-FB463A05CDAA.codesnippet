@@ -3,24 +3,25 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>sss</string>
+	<string>@addTarget</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic, strong) &lt;#dataTpye#&gt; *&lt;#name#&gt;;</string>
+	<string>    [&lt;#control#&gt; addTarget:self action:@selector(handle&lt;#controlName#&gt;Event:) forControlEvents:UIControlEventTouchUpInside];
+</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>81830A55-25E9-4868-874E-E5016D0A8444</string>
+	<string>D0B0C14B-FBC1-43BD-BF9E-FB463A05CDAA</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>sss</string>
+	<string>@addTarget</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Strong属性</string>
+	<string>控件添加点击事件</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

@@ -15,7 +15,7 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>快捷创建pragma mark</string>
+	<string>@param</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>创建pragma mark</string>
 	<key>IDECodeSnippetUserSnippet</key>

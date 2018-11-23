@@ -39,7 +39,7 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>快捷创建代理和数据源</string>
+	<string>@tableDelegate</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>Table代理和数据源</string>
 	<key>IDECodeSnippetUserSnippet</key>

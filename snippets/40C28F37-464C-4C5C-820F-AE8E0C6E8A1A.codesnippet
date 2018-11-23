@@ -17,7 +17,7 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>快捷GCD在Global线程</string>
+	<string>@gcdglobal</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>GCD-Global</string>
 	<key>IDECodeSnippetUserSnippet</key>

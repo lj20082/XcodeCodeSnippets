@@ -21,7 +21,7 @@ label.backgroundColor = [UIColor clearColor];
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>快捷创建Label</string>
+	<string>@label</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>Label创建</string>
 	<key>IDECodeSnippetUserSnippet</key>

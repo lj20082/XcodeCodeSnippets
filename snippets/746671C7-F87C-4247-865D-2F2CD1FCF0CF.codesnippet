@@ -3,24 +3,26 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>sss</string>
+	<string>@addChildViewController</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic, strong) &lt;#dataTpye#&gt; *&lt;#name#&gt;;</string>
+	<string>[self addChildViewController:&lt;#childViewController#&gt;];
+    [self.view addSubview:&lt;#childViewController#&gt;.view];
+    [&lt;#childViewController#&gt; didMoveToParentViewController:self];</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>81830A55-25E9-4868-874E-E5016D0A8444</string>
+	<string>746671C7-F87C-4247-865D-2F2CD1FCF0CF</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>sss</string>
+	<string>@addChildViewController</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Strong属性</string>
+	<string>添加childViewController</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

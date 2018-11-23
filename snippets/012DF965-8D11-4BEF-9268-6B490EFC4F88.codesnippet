@@ -23,7 +23,7 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>快捷创建单例</string>
+	<string>@sharedInstance</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>单例创建</string>
 	<key>IDECodeSnippetUserSnippet</key>

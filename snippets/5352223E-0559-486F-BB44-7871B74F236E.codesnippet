@@ -15,7 +15,7 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>快捷创建静态NSInteger</string>
+	<string>@staticInteger</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>创建静态NSInteger</string>
 	<key>IDECodeSnippetUserSnippet</key>
